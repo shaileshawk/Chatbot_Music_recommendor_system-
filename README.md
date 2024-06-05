@@ -119,10 +119,6 @@ Shivanshu Patel
 ![Screenshot (4201)](https://user-images.githubusercontent.com/82352524/132103739-49e7d128-8473-4b94-b867-6c8d4356476a.png)
 ![Screenshot (4204)](https://user-images.githubusercontent.com/82352524/132103804-c71037f2-572b-418d-8e4d-6b553fd016fa.png)
 
-#### 4. About Us
-![Screenshot (4220)](https://user-images.githubusercontent.com/82352524/132104014-d75e0b6b-bc92-4b96-b82c-df7b7598734c.png)
-![Screenshot (4222)](https://user-images.githubusercontent.com/82352524/132104030-0799ae8e-cd5c-466e-b99f-9b9097367c57.png)
-![image](https://user-images.githubusercontent.com/82352524/132104141-895898a7-e970-4269-8b9e-c8f2e92e1060.png)
 
 
 
